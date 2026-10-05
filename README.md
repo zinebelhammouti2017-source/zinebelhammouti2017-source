@@ -6,8 +6,6 @@
 
 Je conçois des interfaces web modernes, accessibles et responsives.
 
-🎯 **En recherche d’un stage dès fin août ou début septembre 2026**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb_El_Hammouti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-hammouti-352010390)
 [![Email](https://img.shields.io/badge/Email-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebelhammouti2017@gmail.com)
 
