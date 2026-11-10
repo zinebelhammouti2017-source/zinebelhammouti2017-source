@@ -1,27 +1,36 @@
 <div align="center">
 
-# Bonjour, moi c’est Zineb 👋
+# Zineb El Hammouti
 
-### Développeuse Front-End React / Next.js
+### Développeuse Web · React · Next.js · JavaScript
 
-Je conçois des interfaces web modernes, accessibles et responsives.
+Je conçois et développe des interfaces web claires, accessibles et adaptées aux besoins des utilisateurs et des entreprises.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb_El_Hammouti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-hammouti-352010390)
-[![Email](https://img.shields.io/badge/Email-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebelhammouti2017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Échangeons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-hammouti-352010390)
+[![Instagram VISTEVO](https://img.shields.io/badge/Instagram-VISTEVO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vistevo.web/)
 
 </div>
 
 ---
 
-## À propos de moi
+## Profil
 
-Après plus de 10 ans d’expérience dans la gestion, l’organisation et la relation client, j’ai choisi de me reconvertir dans le développement web.
+Développeuse web spécialisée dans la création d’interfaces et d’applications web avec **React** et **Next.js**.
 
-Actuellement en formation chez **OpenClassrooms**, je développe des applications en portant une attention particulière à l’expérience utilisateur, à l’accessibilité, au responsive design et à la qualité du code.
+J’interviens sur l’intégration responsive, le développement de fonctionnalités et la mise en place de parcours simples à utiliser. Je porte une attention particulière à l’accessibilité, à la qualité du code et à la cohérence de l’expérience utilisateur.
 
-Je recherche aujourd’hui une entreprise dans laquelle je pourrai mettre mes compétences en pratique, progresser auprès d’une équipe expérimentée et contribuer à des projets concrets.
+Mon expérience en gestion, organisation et relation client m’aide à comprendre les besoins d’une activité, à communiquer clairement et à garder les objectifs du projet au centre du travail.
 
----
+Je développe également **VISTEVO**, un projet de studio digital destiné aux indépendants, artisans et petites entreprises.
+
+## Ce que je peux réaliser
+
+- Des interfaces web responsives, accessibles et soignées
+- Des sites et applications avec React ou Next.js
+- L’intégration d’interfaces conçues sur Figma
+- Des fonctionnalités connectées à des API
+- Des formulaires, tableaux de bord et espaces utilisateurs
+- Des améliorations d’ergonomie et de parcours utilisateur
 
 ## Technologies et outils
 
@@ -33,67 +42,70 @@ Je recherche aujourd’hui une entreprise dans laquelle je pourrai mettre mes co
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### Back-end et base de données
+### Back-end et données
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Outils
+### Outils et qualité
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ## Projets sélectionnés
 
-### 🏠 Kasa — Plateforme de location
+### Abricot.co — Application de gestion de projets
 
-Application développée avec **Next.js**, reliée à une API Express et conçue avec une attention particulière portée à l’accessibilité et aux performances.
+Application SaaS avec gestion des projets et des tâches, authentification, rôles utilisateurs, vue Kanban et calendrier.
 
-➡️ [Découvrir le projet Kasa](https://github.com/zinebelhammouti2017-source/kasa)
+**Technologies :** React, JavaScript
 
-### ✅ Abricot.co — Application de gestion de projets
+➡️ [Découvrir le projet](https://github.com/zinebelhammouti2017-source/saas-frontend)
 
-Interface SaaS réalisée avec **React** : authentification, gestion des projets et des tâches, rôles utilisateurs, vue Kanban et calendrier.
+### Kasa — Plateforme de location
 
-➡️ [Découvrir Abricot.co](https://github.com/zinebelhammouti2017-source/saas-frontend)
+Application web de location intégrant une API Express, avec navigation entre les logements, gestion des favoris et parcours d’authentification.
 
-### 📊 SportSee — Tableau de bord sportif
+**Technologies :** Next.js, React, JavaScript, API Express
 
-Dashboard développé avec **React**, **Vite** et **Recharts** permettant de visualiser différentes données sportives.
+➡️ [Découvrir le projet](https://github.com/zinebelhammouti2017-source/kasa)
 
-➡️ [Découvrir SportSee](https://github.com/zinebelhammouti2017-source/p6-sportsee)
+### SportSee — Tableau de bord sportif
 
-### 📚 TomTroc — Échange de livres
+Tableau de bord de visualisation de données sportives, avec des graphiques et des indicateurs présentés dans une interface responsive.
 
-Site de mise en relation consacré à l’échange de livres, développé en **PHP** avec une architecture MVC.
+**Technologies :** React, Vite, Recharts
 
-➡️ [Découvrir TomTroc](https://github.com/zinebelhammouti2017-source/TomTroc)
+➡️ [Découvrir le projet](https://github.com/zinebelhammouti2017-source/p6-sportsee)
 
----
+### TomTroc — Échange de livres
 
-## Actuellement
+Site de mise en relation autour de l’échange de livres, développé avec une architecture MVC.
 
-- 🔭 Je travaille sur le projet **Kasa** avec Next.js.
-- 🌱 J’approfondis React, Next.js, les tests et l’optimisation des performances.
-- ♿ J’intègre l’accessibilité et le responsive design dans mes projets.
-- 🤝 Je recherche un **stage en développement front-end** dès fin août ou début septembre 2026.
+**Technologies :** PHP, architecture MVC
 
----
+➡️ [Découvrir le projet](https://github.com/zinebelhammouti2017-source/TomTroc)
 
-## Me contacter
+## Ma façon de travailler
 
-📧 [zinebelhammouti2017@gmail.com](mailto:zinebelhammouti2017@gmail.com)  
-💼 [Mon profil LinkedIn](https://www.linkedin.com/in/zineb-el-hammouti-352010390)
+- Comprendre le besoin et les utilisateurs avant de développer
+- Construire des interfaces lisibles et adaptées au mobile
+- Soigner l’accessibilité et les détails d’interaction
+- Organiser le code pour faciliter sa compréhension et son évolution
+- Communiquer avec clarté tout au long du projet
 
----
+## Contact
+
+Vous avez un projet web ou souhaitez échanger sur une collaboration ?
+
+[Contactez-moi sur LinkedIn](https://www.linkedin.com/in/zineb-el-hammouti-352010390).
 
 <div align="center">
 
-### Curieuse, rigoureuse et toujours prête à apprendre 🚀
+**Des interfaces utiles, une expérience soignée et des projets menés avec sérieux.**
 
 </div>
