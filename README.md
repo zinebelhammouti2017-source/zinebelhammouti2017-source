@@ -6,7 +6,8 @@
 
 Je conçois et développe des interfaces web claires, accessibles et adaptées aux besoins des utilisateurs et des entreprises.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Échangeons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-hammouti-352010390)
+[![E-mail VISTEVO](https://img.shields.io/badge/E--mail-contact%40vistevo.fr-0B1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vistevo.fr)
+[![E-mail secondaire](https://img.shields.io/badge/E--mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebelhammouti2017@gmail.com)
 [![Instagram VISTEVO](https://img.shields.io/badge/Instagram-VISTEVO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vistevo.web/)
 
 </div>
@@ -15,17 +16,17 @@ Je conçois et développe des interfaces web claires, accessibles et adaptées a
 
 ## Profil
 
-Développeuse web spécialisée dans la création d’interfaces et d’applications web avec **React** et **Next.js**.
+Je suis développeuse web, spécialisée dans la création d’interfaces et d’applications avec **React** et **Next.js**.
 
-J’interviens sur l’intégration responsive, le développement de fonctionnalités et la mise en place de parcours simples à utiliser. Je porte une attention particulière à l’accessibilité, à la qualité du code et à la cohérence de l’expérience utilisateur.
+Je transforme les besoins d’un projet en expériences web soignées : intégration responsive, fonctionnalités, connexion aux API et parcours utilisateur. Je veille à l’accessibilité, à la qualité du code et aux bonnes pratiques de sécurité.
 
 Mon expérience en gestion, organisation et relation client m’aide à comprendre les besoins d’une activité, à communiquer clairement et à garder les objectifs du projet au centre du travail.
 
-Je développe également **VISTEVO**, un projet de studio digital destiné aux indépendants, artisans et petites entreprises.
+Je développe également **VISTEVO**, un studio digital destiné aux indépendants, artisans et petites entreprises.
 
 ## Ce que je peux réaliser
 
-- Des interfaces web responsives, accessibles et soignées
+- Des interfaces web responsives et accessibles
 - Des sites et applications avec React ou Next.js
 - L’intégration d’interfaces conçues sur Figma
 - Des fonctionnalités connectées à des API
@@ -60,7 +61,7 @@ Je développe également **VISTEVO**, un projet de studio digital destiné aux i
 
 ### Abricot.co — Application de gestion de projets
 
-Application SaaS avec gestion des projets et des tâches, authentification, rôles utilisateurs, vue Kanban et calendrier.
+Application SaaS permettant de gérer des projets et des tâches, avec authentification, rôles utilisateurs, vue Kanban et calendrier.
 
 **Technologies :** React, JavaScript
 
@@ -76,7 +77,7 @@ Application web de location intégrant une API Express, avec navigation entre le
 
 ### SportSee — Tableau de bord sportif
 
-Tableau de bord de visualisation de données sportives, avec des graphiques et des indicateurs présentés dans une interface responsive.
+Tableau de bord de visualisation de données sportives, avec graphiques et indicateurs présentés dans une interface responsive.
 
 **Technologies :** React, Vite, Recharts
 
@@ -96,13 +97,13 @@ Site de mise en relation autour de l’échange de livres, développé avec une 
 - Construire des interfaces lisibles et adaptées au mobile
 - Soigner l’accessibilité et les détails d’interaction
 - Organiser le code pour faciliter sa compréhension et son évolution
-- Communiquer avec clarté tout au long du projet
+- Communiquer clairement tout au long du projet
 
 ## Contact
 
-Vous avez un projet web ou souhaitez échanger sur une collaboration ?
+Pour une demande de mission, une collaboration ou une question, écrivez-moi à [contact@vistevo.fr](mailto:contact@vistevo.fr).
 
-[Contactez-moi sur LinkedIn](https://www.linkedin.com/in/zineb-el-hammouti-352010390).
+Vous pouvez également me joindre à [zinebelhammouti2017@gmail.com](mailto:zinebelhammouti2017@gmail.com).
 
 <div align="center">
 
